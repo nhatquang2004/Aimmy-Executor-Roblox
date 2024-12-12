@@ -14,6 +14,7 @@ To get started with Aimmy Executor, follow these simple steps:
 
 
 
+
 ![Aimmy Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
